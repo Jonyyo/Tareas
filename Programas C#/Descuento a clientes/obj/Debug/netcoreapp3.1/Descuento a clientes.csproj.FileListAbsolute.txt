@@ -1,0 +1,13 @@
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\bin\Debug\netcoreapp3.1\Descuento a clientes.exe
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\bin\Debug\netcoreapp3.1\Descuento a clientes.deps.json
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\bin\Debug\netcoreapp3.1\Descuento a clientes.runtimeconfig.json
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\bin\Debug\netcoreapp3.1\Descuento a clientes.runtimeconfig.dev.json
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\bin\Debug\netcoreapp3.1\Descuento a clientes.dll
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\bin\Debug\netcoreapp3.1\Descuento a clientes.pdb
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\obj\Debug\netcoreapp3.1\Descuento a clientes.csprojAssemblyReference.cache
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\obj\Debug\netcoreapp3.1\Descuento a clientes.AssemblyInfoInputs.cache
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\obj\Debug\netcoreapp3.1\Descuento a clientes.AssemblyInfo.cs
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\obj\Debug\netcoreapp3.1\Descuento a clientes.csproj.CoreCompileInputs.cache
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\obj\Debug\netcoreapp3.1\Descuento a clientes.dll
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\obj\Debug\netcoreapp3.1\Descuento a clientes.pdb
+C:\Users\7010\Desktop\Programas C#\Descuento a clientes\obj\Debug\netcoreapp3.1\Descuento a clientes.genruntimeconfig.cache

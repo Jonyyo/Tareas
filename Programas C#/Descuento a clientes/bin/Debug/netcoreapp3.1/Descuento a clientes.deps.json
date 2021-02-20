@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Descuento a clientes/1.0.0": {
+        "runtime": {
+          "Descuento a clientes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Descuento a clientes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calcular Salario/1.0.0": {
+        "runtime": {
+          "Calcular Salario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcular Salario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
