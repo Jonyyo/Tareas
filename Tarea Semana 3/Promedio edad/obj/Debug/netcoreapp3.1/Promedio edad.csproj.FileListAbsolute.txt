@@ -1,0 +1,13 @@
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\obj\Debug\netcoreapp3.1\Promedio edad.csprojAssemblyReference.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\obj\Debug\netcoreapp3.1\Promedio edad.AssemblyInfoInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\obj\Debug\netcoreapp3.1\Promedio edad.AssemblyInfo.cs
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\obj\Debug\netcoreapp3.1\Promedio edad.csproj.CoreCompileInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\bin\Debug\netcoreapp3.1\Promedio edad.exe
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\bin\Debug\netcoreapp3.1\Promedio edad.deps.json
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\bin\Debug\netcoreapp3.1\Promedio edad.runtimeconfig.json
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\bin\Debug\netcoreapp3.1\Promedio edad.runtimeconfig.dev.json
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\bin\Debug\netcoreapp3.1\Promedio edad.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\bin\Debug\netcoreapp3.1\Promedio edad.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\obj\Debug\netcoreapp3.1\Promedio edad.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\obj\Debug\netcoreapp3.1\Promedio edad.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Promedio edad\obj\Debug\netcoreapp3.1\Promedio edad.genruntimeconfig.cache

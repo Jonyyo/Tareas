@@ -1,0 +1,13 @@
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\bin\Debug\netcoreapp3.1\Enceuntra numeros primos.exe
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\bin\Debug\netcoreapp3.1\Enceuntra numeros primos.deps.json
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\bin\Debug\netcoreapp3.1\Enceuntra numeros primos.runtimeconfig.json
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\bin\Debug\netcoreapp3.1\Enceuntra numeros primos.runtimeconfig.dev.json
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\bin\Debug\netcoreapp3.1\Enceuntra numeros primos.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\bin\Debug\netcoreapp3.1\Enceuntra numeros primos.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\obj\Debug\netcoreapp3.1\Enceuntra numeros primos.csprojAssemblyReference.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\obj\Debug\netcoreapp3.1\Enceuntra numeros primos.AssemblyInfoInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\obj\Debug\netcoreapp3.1\Enceuntra numeros primos.AssemblyInfo.cs
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\obj\Debug\netcoreapp3.1\Enceuntra numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\obj\Debug\netcoreapp3.1\Enceuntra numeros primos.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\obj\Debug\netcoreapp3.1\Enceuntra numeros primos.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Enceuntra numeros primos\obj\Debug\netcoreapp3.1\Enceuntra numeros primos.genruntimeconfig.cache

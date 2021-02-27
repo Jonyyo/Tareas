@@ -1,0 +1,13 @@
+C:\Users\7010\source\repos\dia semana\bin\Debug\netcoreapp3.1\dia semana.exe
+C:\Users\7010\source\repos\dia semana\bin\Debug\netcoreapp3.1\dia semana.deps.json
+C:\Users\7010\source\repos\dia semana\bin\Debug\netcoreapp3.1\dia semana.runtimeconfig.json
+C:\Users\7010\source\repos\dia semana\bin\Debug\netcoreapp3.1\dia semana.runtimeconfig.dev.json
+C:\Users\7010\source\repos\dia semana\bin\Debug\netcoreapp3.1\dia semana.dll
+C:\Users\7010\source\repos\dia semana\bin\Debug\netcoreapp3.1\dia semana.pdb
+C:\Users\7010\source\repos\dia semana\obj\Debug\netcoreapp3.1\dia semana.csprojAssemblyReference.cache
+C:\Users\7010\source\repos\dia semana\obj\Debug\netcoreapp3.1\dia semana.AssemblyInfoInputs.cache
+C:\Users\7010\source\repos\dia semana\obj\Debug\netcoreapp3.1\dia semana.AssemblyInfo.cs
+C:\Users\7010\source\repos\dia semana\obj\Debug\netcoreapp3.1\dia semana.csproj.CoreCompileInputs.cache
+C:\Users\7010\source\repos\dia semana\obj\Debug\netcoreapp3.1\dia semana.dll
+C:\Users\7010\source\repos\dia semana\obj\Debug\netcoreapp3.1\dia semana.pdb
+C:\Users\7010\source\repos\dia semana\obj\Debug\netcoreapp3.1\dia semana.genruntimeconfig.cache

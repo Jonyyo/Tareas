@@ -1,0 +1,13 @@
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\bin\Debug\netcoreapp3.1\eleva a potencia.exe
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\bin\Debug\netcoreapp3.1\eleva a potencia.deps.json
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\bin\Debug\netcoreapp3.1\eleva a potencia.runtimeconfig.json
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\bin\Debug\netcoreapp3.1\eleva a potencia.runtimeconfig.dev.json
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\bin\Debug\netcoreapp3.1\eleva a potencia.dll
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\bin\Debug\netcoreapp3.1\eleva a potencia.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\obj\Debug\netcoreapp3.1\eleva a potencia.csprojAssemblyReference.cache
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\obj\Debug\netcoreapp3.1\eleva a potencia.AssemblyInfoInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\obj\Debug\netcoreapp3.1\eleva a potencia.AssemblyInfo.cs
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\obj\Debug\netcoreapp3.1\eleva a potencia.csproj.CoreCompileInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\obj\Debug\netcoreapp3.1\eleva a potencia.dll
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\obj\Debug\netcoreapp3.1\eleva a potencia.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\eleva a potencia\obj\Debug\netcoreapp3.1\eleva a potencia.genruntimeconfig.cache

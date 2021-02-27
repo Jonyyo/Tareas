@@ -1,0 +1,13 @@
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\bin\Debug\netcoreapp3.1\Sucesion Fibonacci.exe
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\bin\Debug\netcoreapp3.1\Sucesion Fibonacci.deps.json
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\bin\Debug\netcoreapp3.1\Sucesion Fibonacci.runtimeconfig.json
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\bin\Debug\netcoreapp3.1\Sucesion Fibonacci.runtimeconfig.dev.json
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\bin\Debug\netcoreapp3.1\Sucesion Fibonacci.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\bin\Debug\netcoreapp3.1\Sucesion Fibonacci.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\obj\Debug\netcoreapp3.1\Sucesion Fibonacci.csprojAssemblyReference.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\obj\Debug\netcoreapp3.1\Sucesion Fibonacci.AssemblyInfoInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\obj\Debug\netcoreapp3.1\Sucesion Fibonacci.AssemblyInfo.cs
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\obj\Debug\netcoreapp3.1\Sucesion Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\obj\Debug\netcoreapp3.1\Sucesion Fibonacci.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\obj\Debug\netcoreapp3.1\Sucesion Fibonacci.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Sucesion Fibonacci\obj\Debug\netcoreapp3.1\Sucesion Fibonacci.genruntimeconfig.cache

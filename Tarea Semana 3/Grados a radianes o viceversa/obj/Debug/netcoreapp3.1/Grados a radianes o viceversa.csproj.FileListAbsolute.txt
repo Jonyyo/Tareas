@@ -1,0 +1,13 @@
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\bin\Debug\netcoreapp3.1\Grados a radianes o viceversa.exe
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\bin\Debug\netcoreapp3.1\Grados a radianes o viceversa.deps.json
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\bin\Debug\netcoreapp3.1\Grados a radianes o viceversa.runtimeconfig.json
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\bin\Debug\netcoreapp3.1\Grados a radianes o viceversa.runtimeconfig.dev.json
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\bin\Debug\netcoreapp3.1\Grados a radianes o viceversa.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\bin\Debug\netcoreapp3.1\Grados a radianes o viceversa.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\obj\Debug\netcoreapp3.1\Grados a radianes o viceversa.csprojAssemblyReference.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\obj\Debug\netcoreapp3.1\Grados a radianes o viceversa.AssemblyInfoInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\obj\Debug\netcoreapp3.1\Grados a radianes o viceversa.AssemblyInfo.cs
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\obj\Debug\netcoreapp3.1\Grados a radianes o viceversa.csproj.CoreCompileInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\obj\Debug\netcoreapp3.1\Grados a radianes o viceversa.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\obj\Debug\netcoreapp3.1\Grados a radianes o viceversa.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Grados a radianes o viceversa\obj\Debug\netcoreapp3.1\Grados a radianes o viceversa.genruntimeconfig.cache

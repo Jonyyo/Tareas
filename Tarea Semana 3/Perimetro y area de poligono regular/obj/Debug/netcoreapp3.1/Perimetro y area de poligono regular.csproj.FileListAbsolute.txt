@@ -1,0 +1,13 @@
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\bin\Debug\netcoreapp3.1\Perimetro y area de poligono regular.exe
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\bin\Debug\netcoreapp3.1\Perimetro y area de poligono regular.deps.json
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\bin\Debug\netcoreapp3.1\Perimetro y area de poligono regular.runtimeconfig.json
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\bin\Debug\netcoreapp3.1\Perimetro y area de poligono regular.runtimeconfig.dev.json
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\bin\Debug\netcoreapp3.1\Perimetro y area de poligono regular.dll
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\bin\Debug\netcoreapp3.1\Perimetro y area de poligono regular.pdb
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\obj\Debug\netcoreapp3.1\Perimetro y area de poligono regular.csprojAssemblyReference.cache
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\obj\Debug\netcoreapp3.1\Perimetro y area de poligono regular.AssemblyInfoInputs.cache
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\obj\Debug\netcoreapp3.1\Perimetro y area de poligono regular.AssemblyInfo.cs
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\obj\Debug\netcoreapp3.1\Perimetro y area de poligono regular.csproj.CoreCompileInputs.cache
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\obj\Debug\netcoreapp3.1\Perimetro y area de poligono regular.dll
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\obj\Debug\netcoreapp3.1\Perimetro y area de poligono regular.pdb
+C:\Users\7010\source\repos\Perimetro y area de poligono regular\obj\Debug\netcoreapp3.1\Perimetro y area de poligono regular.genruntimeconfig.cache

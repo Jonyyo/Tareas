@@ -1,0 +1,13 @@
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\bin\Debug\netcoreapp3.1\Par o impar.exe
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\bin\Debug\netcoreapp3.1\Par o impar.deps.json
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\bin\Debug\netcoreapp3.1\Par o impar.runtimeconfig.json
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\bin\Debug\netcoreapp3.1\Par o impar.runtimeconfig.dev.json
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\bin\Debug\netcoreapp3.1\Par o impar.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\bin\Debug\netcoreapp3.1\Par o impar.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\obj\Debug\netcoreapp3.1\Par o impar.csprojAssemblyReference.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\obj\Debug\netcoreapp3.1\Par o impar.AssemblyInfoInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\obj\Debug\netcoreapp3.1\Par o impar.AssemblyInfo.cs
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\obj\Debug\netcoreapp3.1\Par o impar.csproj.CoreCompileInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\obj\Debug\netcoreapp3.1\Par o impar.dll
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\obj\Debug\netcoreapp3.1\Par o impar.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\Par o impar\obj\Debug\netcoreapp3.1\Par o impar.genruntimeconfig.cache

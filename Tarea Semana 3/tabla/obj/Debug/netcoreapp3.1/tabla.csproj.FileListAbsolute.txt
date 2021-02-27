@@ -1,0 +1,13 @@
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\bin\Debug\netcoreapp3.1\tabla.exe
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\bin\Debug\netcoreapp3.1\tabla.deps.json
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\bin\Debug\netcoreapp3.1\tabla.runtimeconfig.json
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\bin\Debug\netcoreapp3.1\tabla.runtimeconfig.dev.json
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\bin\Debug\netcoreapp3.1\tabla.dll
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\bin\Debug\netcoreapp3.1\tabla.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\obj\Debug\netcoreapp3.1\tabla.csprojAssemblyReference.cache
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\obj\Debug\netcoreapp3.1\tabla.AssemblyInfoInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\obj\Debug\netcoreapp3.1\tabla.AssemblyInfo.cs
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\obj\Debug\netcoreapp3.1\tabla.csproj.CoreCompileInputs.cache
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\obj\Debug\netcoreapp3.1\tabla.dll
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\obj\Debug\netcoreapp3.1\tabla.pdb
+C:\Users\7010\Desktop\Tarea Semana 3\tabla\obj\Debug\netcoreapp3.1\tabla.genruntimeconfig.cache
